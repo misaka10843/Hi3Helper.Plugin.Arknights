@@ -6,7 +6,7 @@
 
 # Hi3Helper.Plugin.Arknights
 
-**English** · [简体中文](./README_CN.md)
+**English** · [简体中文](./README.zh-CN.md)
 
 **Arknights** · [Arknights: Endfield](https://github.com/misaka10843/Hi3Helper.Plugin.Endfield)
 
