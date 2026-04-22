@@ -1,3 +1,6 @@
+> [!CAUTION]
+> Please move to: [Hi3Helper.Plugin.Hypergryph](https://github.com/misaka10843/Hi3Helper.Plugin.Hypergryph)
+
 <p align="center">
   <img width="512px" height="auto" src="./.github/assets/CollapseLauncherIdolType.png"/>
 </p>
